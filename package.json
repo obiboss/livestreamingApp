@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@stream-io/node-sdk": "^0.4.4",
+    "@stream-io/video-react-sdk": "^1.7.30",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.6",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.7",
+    "stream-js": "^0.5.1",
+    "uuid": "^11.0.3"
+  }
+}
